@@ -6,7 +6,7 @@ export const QrComponent = () => {
       <div className="max-w-96 rounded-2xl bg-white overflow-hidden shadow-lg text-center">
         <img
           className="rounded-[35px] p-5"
-          src="src/images/image-qr-code.png"
+          src="./images/image-qr-code.png"
           alt="QR Code for Frontend Mentor"
         />
         <div className="px-6 py-4">
