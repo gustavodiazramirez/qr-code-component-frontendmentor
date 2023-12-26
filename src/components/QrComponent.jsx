@@ -1,5 +1,6 @@
 import React from "react";
-import ImagenQR from "./ImagenQR.JSX";
+import ImagenQR from "./ImagenQR.jsx";
+
 
 export const QrComponent = () => {
   return (
