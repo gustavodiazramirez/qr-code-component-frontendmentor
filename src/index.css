@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Colors */
+.bg-white {
+  background-color: hsl(0, 0%, 100%);
+}
+
+.bg-light-gray {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.bg-grayish-blue {
+  background-color: hsl(220, 15%, 55%);
+}
+
+.bg-dark-blue {
+  background-color: hsl(218, 44%, 22%);
+}
+
+/* Typography */
+/* Body Copy */
+.text-paragraph {
+  font-size: 15px;
+}
+
+/* Font */
+.font-outfit {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 400;
+}
+
+.font-outfit-bold {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+}
