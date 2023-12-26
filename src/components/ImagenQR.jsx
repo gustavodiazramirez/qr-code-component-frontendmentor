@@ -6,7 +6,9 @@ export const ImagenQR = () => {
       className="w-auto h-[345px] rounded-[15px] bg-contain 
       bg-[url(images/image-qr-code.png)]
       "
-    ></div>
+    >
+      
+    </div>
   );
 };
 export default ImagenQR;
